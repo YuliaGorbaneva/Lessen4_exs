@@ -1,0 +1,5 @@
+E:\Lessen_4\Exs_2\obj\Debug\net6.0\Exs_2.csproj.AssemblyReference.cache
+E:\Lessen_4\Exs_2\obj\Debug\net6.0\Exs_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lessen_4\Exs_2\obj\Debug\net6.0\Exs_2.AssemblyInfoInputs.cache
+E:\Lessen_4\Exs_2\obj\Debug\net6.0\Exs_2.AssemblyInfo.cs
+E:\Lessen_4\Exs_2\obj\Debug\net6.0\Exs_2.csproj.CoreCompileInputs.cache

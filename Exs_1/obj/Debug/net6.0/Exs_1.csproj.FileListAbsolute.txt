@@ -1,0 +1,15 @@
+E:\Lessen_4\Exs_1\bin\Debug\net6.0\Exs_1.exe
+E:\Lessen_4\Exs_1\bin\Debug\net6.0\Exs_1.deps.json
+E:\Lessen_4\Exs_1\bin\Debug\net6.0\Exs_1.runtimeconfig.json
+E:\Lessen_4\Exs_1\bin\Debug\net6.0\Exs_1.dll
+E:\Lessen_4\Exs_1\bin\Debug\net6.0\Exs_1.pdb
+E:\Lessen_4\Exs_1\obj\Debug\net6.0\Exs_1.csproj.AssemblyReference.cache
+E:\Lessen_4\Exs_1\obj\Debug\net6.0\Exs_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lessen_4\Exs_1\obj\Debug\net6.0\Exs_1.AssemblyInfoInputs.cache
+E:\Lessen_4\Exs_1\obj\Debug\net6.0\Exs_1.AssemblyInfo.cs
+E:\Lessen_4\Exs_1\obj\Debug\net6.0\Exs_1.csproj.CoreCompileInputs.cache
+E:\Lessen_4\Exs_1\obj\Debug\net6.0\Exs_1.dll
+E:\Lessen_4\Exs_1\obj\Debug\net6.0\refint\Exs_1.dll
+E:\Lessen_4\Exs_1\obj\Debug\net6.0\Exs_1.pdb
+E:\Lessen_4\Exs_1\obj\Debug\net6.0\Exs_1.genruntimeconfig.cache
+E:\Lessen_4\Exs_1\obj\Debug\net6.0\ref\Exs_1.dll
